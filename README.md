@@ -1,8 +1,8 @@
 # Desenvolvedor Full Stack .NET
 
-Trabalho com C#, ASP.NET Core, JavaScript e SQL Server na evolução de sistemas web. Minha experiência inclui APIs REST, integrações e manutenção de aplicações em produção.
+Trabalho com desenvolvimento de software há mais de 10 anos, com foco em C# e .NET. Minha experiência vai da evolução de aplicações em .NET Framework ao desenvolvimento de APIs REST em ASP.NET Core, passando por integrações, interfaces web em JavaScript e consultas e procedures em SQL Server.
 
-Gosto de pegar um problema que aparece na tela e seguir o caminho até a API e o banco. Já apliquei isso em funcionalidades de mapeamento comercial, trabalhando com dados de municípios para visualizar a cobertura de vendas.
+Um dos projetos que mais gostei de desenvolver foi a remodelagem de um módulo de mapeamento comercial. Trabalhei com dados geográficos no SQL Server e mapas interativos para visualizar a cobertura de vendas por município e analisar o potencial de cada território. Também já implementei integrações com Clicksign e Power BI e trabalhei na exportação de grandes volumes de dados em CSV.
 
 ## Projeto em destaque
 
